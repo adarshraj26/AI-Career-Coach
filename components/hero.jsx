@@ -46,9 +46,9 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="">
+          <Link href="https://hirrd-ashy.vercel.app/">
             <Button size="lg" variant="outline" className="px-8">
-              Watch Demo
+              Go to Job Portal
             </Button>
           </Link>
         </div>
